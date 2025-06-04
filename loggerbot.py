@@ -3,7 +3,7 @@ from telegraph import Telegraph, TelegraphException
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 TOKEN = ''
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7780688811:AAFVC6cdSfWAcPT2ntuba5DvcoB4yA8kM7E)
 
 telegraph = Telegraph()
 telegraph.create_account(short_name='bot')
